@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1510936672 source:c:\users\leonardo hidalgo\desktop\caca\main.cpp
+	"Tree.h"
+
+1510936618 c:\users\leonardo hidalgo\desktop\caca\include\tree.h
+	<iostream>
+	<fstream>
+	<cstdlib>
+
