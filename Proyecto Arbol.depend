@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1509999260 source:c:\users\leonardo hidalgo\desktop\clases\ii ciclo 2017\estructuras de datos\proyecto arbol\main.cpp
+	"BSTree.h"
+
+1510191666 c:\users\leonardo hidalgo\desktop\clases\ii ciclo 2017\estructuras de datos\proyecto arbol\include\bstree.h
+	"Animal.h"
+
+1509999194 source:c:\users\leonardo hidalgo\desktop\clases\ii ciclo 2017\estructuras de datos\proyecto arbol\src\bstree.cpp
+	"BSTree.h"
+
+1510191737 c:\users\leonardo hidalgo\desktop\clases\ii ciclo 2017\estructuras de datos\proyecto arbol\include\animal.h
+	<iostream>
+
